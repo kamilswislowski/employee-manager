@@ -1,0 +1,5 @@
+Jakub Stasiak MANAGER 2 5000
+Adolf Okuratny SECRETARY 3 1500
+Adolf Dymsza WORKER 14 2222
+Sławomir Grzesiak MANAGER 3 14999
+Halina Stefańska SECRETARY 4 4444
